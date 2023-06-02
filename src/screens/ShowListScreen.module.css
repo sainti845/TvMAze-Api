@@ -1,0 +1,13 @@
+.row{
+    display: flex !important;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.container{
+    max-width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+}
+h1{
+    margin: 26px !important;
+}

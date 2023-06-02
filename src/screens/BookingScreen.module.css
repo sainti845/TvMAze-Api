@@ -1,0 +1,11 @@
+.container{
+    width: 70vw;
+    height: 400px;
+    box-shadow: 5px 2px 12px grey;
+    margin: 17% auto;
+}
+
+input{
+    width: 80% !important;
+    margin: 2%;
+}
